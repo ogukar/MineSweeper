@@ -15,7 +15,7 @@ public class Main {
         start.setLength(l);
         start.setWidth(w);
         start.gameMap();
-        start.xRay();
+        start.xRay();  //xray of real map
         int b,a;
         do {
             System.out.println("choose vertical");
